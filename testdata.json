@@ -1,0 +1,1523 @@
+﻿testdata = [
+ {
+  "id" : 1,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 0,
+  "VA" : 1.25,
+  "sf" : 0.561,
+  "amplitude" : 19.76
+ },
+ {
+  "id" : 1,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 0,
+  "VA" : 1.25,
+  "sf" : 0.889,
+  "amplitude" : 27.96
+ },
+ {
+  "id" : 1,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 0,
+  "VA" : 1.25,
+  "sf" : 1.402,
+  "amplitude" : 40.18
+ },
+ {
+  "id" : 1,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 0,
+  "VA" : 1.25,
+  "sf" : 2.083,
+  "amplitude" : 41.64
+ },
+ {
+  "id" : 1,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 0,
+  "VA" : 1.25,
+  "sf" : 3.315,
+  "amplitude" : 44.38
+ },
+ {
+  "id" : 1,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 0,
+  "VA" : 1.25,
+  "sf" : 4.861,
+  "amplitude" : 43.79
+ },
+ {
+  "id" : 1,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 0,
+  "VA" : 1.25,
+  "sf" : 7.292,
+  "amplitude" : 36.55
+ },
+ {
+  "id" : 1,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 0,
+  "VA" : 1.25,
+  "sf" : 10.417,
+  "amplitude" : 31.06
+ },
+ {
+  "id" : 1,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 0,
+  "VA" : 1.25,
+  "sf" : 18.23,
+  "amplitude" : 11.9
+ },
+ {
+  "id" : 1,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 0,
+  "VA" : 1.25,
+  "sf" : 24.307,
+  "amplitude" : 7.84
+ },
+ {
+  "id" : 1,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 0,
+  "VA" : 1.25,
+  "sf" : 36.46,
+  "amplitude" : 7.95
+ },
+ {
+  "id" : 2,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 1,
+  "VA" : 0.8,
+  "sf" : 0.561,
+  "amplitude" : 32.59
+ },
+ {
+  "id" : 2,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 1,
+  "VA" : 0.8,
+  "sf" : 0.889,
+  "amplitude" : 28.68
+ },
+ {
+  "id" : 2,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 1,
+  "VA" : 0.8,
+  "sf" : 1.402,
+  "amplitude" : 38.83
+ },
+ {
+  "id" : 2,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 1,
+  "VA" : 0.8,
+  "sf" : 2.083,
+  "amplitude" : 43.86
+ },
+ {
+  "id" : 2,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 1,
+  "VA" : 0.8,
+  "sf" : 3.315,
+  "amplitude" : 44.07
+ },
+ {
+  "id" : 2,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 1,
+  "VA" : 0.8,
+  "sf" : 4.861,
+  "amplitude" : 38.17
+ },
+ {
+  "id" : 2,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 1,
+  "VA" : 0.8,
+  "sf" : 7.292,
+  "amplitude" : 28.68
+ },
+ {
+  "id" : 2,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 1,
+  "VA" : 0.8,
+  "sf" : 10.417,
+  "amplitude" : 24.17
+ },
+ {
+  "id" : 2,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 1,
+  "VA" : 0.8,
+  "sf" : 18.23,
+  "amplitude" : 7.07
+ },
+ {
+  "id" : 2,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 1,
+  "VA" : 0.8,
+  "sf" : 24.307,
+  "amplitude" : 9.68
+ },
+ {
+  "id" : 2,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 1,
+  "VA" : 0.8,
+  "sf" : 36.46,
+  "amplitude" : 7.84
+ },
+ {
+  "id" : 3,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 2,
+  "VA" : 0.32,
+  "sf" : 0.561,
+  "amplitude" : 20.1
+ },
+ {
+  "id" : 3,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 2,
+  "VA" : 0.32,
+  "sf" : 0.889,
+  "amplitude" : 30.15
+ },
+ {
+  "id" : 3,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 2,
+  "VA" : 0.32,
+  "sf" : 1.402,
+  "amplitude" : 38.55
+ },
+ {
+  "id" : 3,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 2,
+  "VA" : 0.32,
+  "sf" : 2.083,
+  "amplitude" : 32.29
+ },
+ {
+  "id" : 3,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 2,
+  "VA" : 0.32,
+  "sf" : 3.315,
+  "amplitude" : 23.34
+ },
+ {
+  "id" : 3,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 2,
+  "VA" : 0.32,
+  "sf" : 4.861,
+  "amplitude" : 11.61
+ },
+ {
+  "id" : 3,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 2,
+  "VA" : 0.32,
+  "sf" : 7.292,
+  "amplitude" : 13.51
+ },
+ {
+  "id" : 3,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 2,
+  "VA" : 0.32,
+  "sf" : 10.417,
+  "amplitude" : 12.95
+ },
+ {
+  "id" : 3,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 2,
+  "VA" : 0.32,
+  "sf" : 18.23,
+  "amplitude" : 9.89
+ },
+ {
+  "id" : 3,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 2,
+  "VA" : 0.32,
+  "sf" : 24.307,
+  "amplitude" : 6.56
+ },
+ {
+  "id" : 3,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 2,
+  "VA" : 0.32,
+  "sf" : 36.46,
+  "amplitude" : 4.73
+ },
+ {
+  "id" : 4,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 3,
+  "VA" : 0.16,
+  "sf" : 0.561,
+  "amplitude" : 17.61
+ },
+ {
+  "id" : 4,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 3,
+  "VA" : 0.16,
+  "sf" : 0.889,
+  "amplitude" : 28.35
+ },
+ {
+  "id" : 4,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 3,
+  "VA" : 0.16,
+  "sf" : 1.402,
+  "amplitude" : 32.18
+ },
+ {
+  "id" : 4,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 3,
+  "VA" : 0.16,
+  "sf" : 2.083,
+  "amplitude" : 24.12
+ },
+ {
+  "id" : 4,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 3,
+  "VA" : 0.16,
+  "sf" : 3.315,
+  "amplitude" : 9.89
+ },
+ {
+  "id" : 4,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 3,
+  "VA" : 0.16,
+  "sf" : 4.861,
+  "amplitude" : 11.88
+ },
+ {
+  "id" : 4,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 3,
+  "VA" : 0.16,
+  "sf" : 7.292,
+  "amplitude" : 7.09
+ },
+ {
+  "id" : 4,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 3,
+  "VA" : 0.16,
+  "sf" : 10.417,
+  "amplitude" : 8.92
+ },
+ {
+  "id" : 4,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 3,
+  "VA" : 0.16,
+  "sf" : 18.23,
+  "amplitude" : 8.15
+ },
+ {
+  "id" : 4,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 3,
+  "VA" : 0.16,
+  "sf" : 24.307,
+  "amplitude" : 8.21
+ },
+ {
+  "id" : 4,
+  "type" : "normal",
+  "eye" : "OD",
+  "condition" : 3,
+  "VA" : 0.16,
+  "sf" : 36.46,
+  "amplitude" : 8.63
+ },
+ {
+  "id" : 5,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 0,
+  "VA" : 1.25,
+  "sf" : 0.561,
+  "amplitude" : 18.97
+ },
+ {
+  "id" : 5,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 0,
+  "VA" : 1.25,
+  "sf" : 0.889,
+  "amplitude" : 34.39
+ },
+ {
+  "id" : 5,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 0,
+  "VA" : 1.25,
+  "sf" : 1.402,
+  "amplitude" : 47.55
+ },
+ {
+  "id" : 5,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 0,
+  "VA" : 1.25,
+  "sf" : 2.083,
+  "amplitude" : 46.02
+ },
+ {
+  "id" : 5,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 0,
+  "VA" : 1.25,
+  "sf" : 3.315,
+  "amplitude" : 51.02
+ },
+ {
+  "id" : 5,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 0,
+  "VA" : 1.25,
+  "sf" : 4.861,
+  "amplitude" : 46.34
+ },
+ {
+  "id" : 5,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 0,
+  "VA" : 1.25,
+  "sf" : 7.292,
+  "amplitude" : 40.26
+ },
+ {
+  "id" : 5,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 0,
+  "VA" : 1.25,
+  "sf" : 10.417,
+  "amplitude" : 28.61
+ },
+ {
+  "id" : 5,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 0,
+  "VA" : 1.25,
+  "sf" : 18.23,
+  "amplitude" : 6.42
+ },
+ {
+  "id" : 5,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 0,
+  "VA" : 1.25,
+  "sf" : 24.307,
+  "amplitude" : 6.26
+ },
+ {
+  "id" : 5,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 0,
+  "VA" : 1.25,
+  "sf" : 36.46,
+  "amplitude" : 4.49
+ },
+ {
+  "id" : 6,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 1,
+  "VA" : 0.8,
+  "sf" : 0.561,
+  "amplitude" : 26.13
+ },
+ {
+  "id" : 6,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 1,
+  "VA" : 0.8,
+  "sf" : 0.889,
+  "amplitude" : 33.53
+ },
+ {
+  "id" : 6,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 1,
+  "VA" : 0.8,
+  "sf" : 1.402,
+  "amplitude" : 44.74
+ },
+ {
+  "id" : 6,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 1,
+  "VA" : 0.8,
+  "sf" : 2.083,
+  "amplitude" : 48.47
+ },
+ {
+  "id" : 6,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 1,
+  "VA" : 0.8,
+  "sf" : 3.315,
+  "amplitude" : 46.09
+ },
+ {
+  "id" : 6,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 1,
+  "VA" : 0.8,
+  "sf" : 4.861,
+  "amplitude" : 33.76
+ },
+ {
+  "id" : 6,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 1,
+  "VA" : 0.8,
+  "sf" : 7.292,
+  "amplitude" : 31.71
+ },
+ {
+  "id" : 6,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 1,
+  "VA" : 0.8,
+  "sf" : 10.417,
+  "amplitude" : 20.16
+ },
+ {
+  "id" : 6,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 1,
+  "VA" : 0.8,
+  "sf" : 18.23,
+  "amplitude" : 2.53
+ },
+ {
+  "id" : 6,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 1,
+  "VA" : 0.8,
+  "sf" : 24.307,
+  "amplitude" : 4.35
+ },
+ {
+  "id" : 6,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 1,
+  "VA" : 0.8,
+  "sf" : 36.46,
+  "amplitude" : 3.23
+ },
+ {
+  "id" : 7,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 2,
+  "VA" : 0.32,
+  "sf" : 0.561,
+  "amplitude" : 19.72
+ },
+ {
+  "id" : 7,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 2,
+  "VA" : 0.32,
+  "sf" : 0.889,
+  "amplitude" : 32.02
+ },
+ {
+  "id" : 7,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 2,
+  "VA" : 0.32,
+  "sf" : 1.402,
+  "amplitude" : 39.85
+ },
+ {
+  "id" : 7,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 2,
+  "VA" : 0.32,
+  "sf" : 2.083,
+  "amplitude" : 35.16
+ },
+ {
+  "id" : 7,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 2,
+  "VA" : 0.32,
+  "sf" : 3.315,
+  "amplitude" : 28.21
+ },
+ {
+  "id" : 7,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 2,
+  "VA" : 0.32,
+  "sf" : 4.861,
+  "amplitude" : 15.35
+ },
+ {
+  "id" : 7,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 2,
+  "VA" : 0.32,
+  "sf" : 7.292,
+  "amplitude" : 10.66
+ },
+ {
+  "id" : 7,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 2,
+  "VA" : 0.32,
+  "sf" : 10.417,
+  "amplitude" : 7.91
+ },
+ {
+  "id" : 7,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 2,
+  "VA" : 0.32,
+  "sf" : 18.23,
+  "amplitude" : 6.14
+ },
+ {
+  "id" : 7,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 2,
+  "VA" : 0.32,
+  "sf" : 24.307,
+  "amplitude" : 2.71
+ },
+ {
+  "id" : 7,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 2,
+  "VA" : 0.32,
+  "sf" : 36.46,
+  "amplitude" : 2.23
+ },
+ {
+  "id" : 8,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 3,
+  "VA" : 0.16,
+  "sf" : 0.561,
+  "amplitude" : 21.75
+ },
+ {
+  "id" : 8,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 3,
+  "VA" : 0.16,
+  "sf" : 0.889,
+  "amplitude" : 28.91
+ },
+ {
+  "id" : 8,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 3,
+  "VA" : 0.16,
+  "sf" : 1.402,
+  "amplitude" : 39.64
+ },
+ {
+  "id" : 8,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 3,
+  "VA" : 0.16,
+  "sf" : 2.083,
+  "amplitude" : 28.38
+ },
+ {
+  "id" : 8,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 3,
+  "VA" : 0.16,
+  "sf" : 3.315,
+  "amplitude" : 8.29
+ },
+ {
+  "id" : 8,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 3,
+  "VA" : 0.16,
+  "sf" : 4.861,
+  "amplitude" : 5.26
+ },
+ {
+  "id" : 8,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 3,
+  "VA" : 0.16,
+  "sf" : 7.292,
+  "amplitude" : 7.78
+ },
+ {
+  "id" : 8,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 3,
+  "VA" : 0.16,
+  "sf" : 10.417,
+  "amplitude" : 4.86
+ },
+ {
+  "id" : 8,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 3,
+  "VA" : 0.16,
+  "sf" : 18.23,
+  "amplitude" : 3.83
+ },
+ {
+  "id" : 8,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 3,
+  "VA" : 0.16,
+  "sf" : 24.307,
+  "amplitude" : 8.21
+ },
+ {
+  "id" : 8,
+  "type" : "normal",
+  "eye" : "OS",
+  "condition" : 3,
+  "VA" : 0.16,
+  "sf" : 36.46,
+  "amplitude" : 6.42
+ },
+ {
+  "id" : 9,
+  "type" : "ON",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.65,
+  "sf" : 0.528,
+  "amplitude" : 14.8509047851562
+ },
+ {
+  "id" : 9,
+  "type" : "ON",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.65,
+  "sf" : 0.877,
+  "amplitude" : 19.2028759765625
+ },
+ {
+  "id" : 9,
+  "type" : "ON",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.65,
+  "sf" : 1.41,
+  "amplitude" : 17.3437216796875
+ },
+ {
+  "id" : 9,
+  "type" : "ON",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.65,
+  "sf" : 10.749,
+  "amplitude" : 1.99911566162109
+ },
+ {
+  "id" : 9,
+  "type" : "ON",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.65,
+  "sf" : 17.199,
+  "amplitude" : 2.77300451660156
+ },
+ {
+  "id" : 9,
+  "type" : "ON",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.65,
+  "sf" : 2.097,
+  "amplitude" : 14.3873969726562
+ },
+ {
+  "id" : 9,
+  "type" : "ON",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.65,
+  "sf" : 21.499,
+  "amplitude" : 1.77570373535156
+ },
+ {
+  "id" : 9,
+  "type" : "ON",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.65,
+  "sf" : 3.185,
+  "amplitude" : 6.72069677734375
+ },
+ {
+  "id" : 9,
+  "type" : "ON",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.65,
+  "sf" : 4.777,
+  "amplitude" : 5.36845471191406
+ },
+ {
+  "id" : 9,
+  "type" : "ON",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.65,
+  "sf" : 7.166,
+  "amplitude" : 3.91553015136719
+ },
+ {
+  "id" : 10,
+  "type" : "CLOUDINESS",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.5,
+  "sf" : 0.528,
+  "amplitude" : 10.7965269927978
+ },
+ {
+  "id" : 10,
+  "type" : "CLOUDINESS",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.5,
+  "sf" : 0.877,
+  "amplitude" : 13.7309816894531
+ },
+ {
+  "id" : 10,
+  "type" : "CLOUDINESS",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.5,
+  "sf" : 1.41,
+  "amplitude" : 12.35851171875
+ },
+ {
+  "id" : 10,
+  "type" : "CLOUDINESS",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.5,
+  "sf" : 10.749,
+  "amplitude" : 2.0049948348999
+ },
+ {
+  "id" : 10,
+  "type" : "CLOUDINESS",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.5,
+  "sf" : 17.199,
+  "amplitude" : 1.82489733886719
+ },
+ {
+  "id" : 10,
+  "type" : "CLOUDINESS",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.5,
+  "sf" : 2.097,
+  "amplitude" : 9.59177172851562
+ },
+ {
+  "id" : 10,
+  "type" : "CLOUDINESS",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.5,
+  "sf" : 21.499,
+  "amplitude" : 1.40016613769531
+ },
+ {
+  "id" : 10,
+  "type" : "CLOUDINESS",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.5,
+  "sf" : 3.185,
+  "amplitude" : 4.75747441101074
+ },
+ {
+  "id" : 10,
+  "type" : "CLOUDINESS",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.5,
+  "sf" : 4.777,
+  "amplitude" : 4.7919517211914
+ },
+ {
+  "id" : 10,
+  "type" : "CLOUDINESS",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.5,
+  "sf" : 7.166,
+  "amplitude" : 1.62161663818359
+ },
+ {
+  "id" : 11,
+  "type" : "RP",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.8,
+  "sf" : 0.528,
+  "amplitude" : 13.9444399414062
+ },
+ {
+  "id" : 11,
+  "type" : "RP",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.8,
+  "sf" : 0.877,
+  "amplitude" : 10.9508212890625
+ },
+ {
+  "id" : 11,
+  "type" : "RP",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.8,
+  "sf" : 1.41,
+  "amplitude" : 9.586810546875
+ },
+ {
+  "id" : 11,
+  "type" : "RP",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.8,
+  "sf" : 10.749,
+  "amplitude" : 2.30383367919922
+ },
+ {
+  "id" : 11,
+  "type" : "RP",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.8,
+  "sf" : 17.199,
+  "amplitude" : 1.29189276885986
+ },
+ {
+  "id" : 11,
+  "type" : "RP",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.8,
+  "sf" : 2.097,
+  "amplitude" : 13.1439694824219
+ },
+ {
+  "id" : 11,
+  "type" : "RP",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.8,
+  "sf" : 21.499,
+  "amplitude" : 0.493548950195312
+ },
+ {
+  "id" : 11,
+  "type" : "RP",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.8,
+  "sf" : 3.185,
+  "amplitude" : 11.7682725830078
+ },
+ {
+  "id" : 11,
+  "type" : "RP",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.8,
+  "sf" : 4.777,
+  "amplitude" : 9.35162622070312
+ },
+ {
+  "id" : 11,
+  "type" : "RP",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.8,
+  "sf" : 7.166,
+  "amplitude" : 6.78835620117188
+ },
+ {
+  "id" : 12,
+  "type" : "AMD",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.2,
+  "sf" : 0.528,
+  "amplitude" : 4.64348645019531
+ },
+ {
+  "id" : 12,
+  "type" : "AMD",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.2,
+  "sf" : 0.877,
+  "amplitude" : 5.93720129394531
+ },
+ {
+  "id" : 12,
+  "type" : "AMD",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.2,
+  "sf" : 1.41,
+  "amplitude" : 5.00087243652344
+ },
+ {
+  "id" : 12,
+  "type" : "AMD",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.2,
+  "sf" : 10.749,
+  "amplitude" : 0.248
+ },
+ {
+  "id" : 12,
+  "type" : "AMD",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.2,
+  "sf" : 17.199,
+  "amplitude" : 0.707605712890625
+ },
+ {
+  "id" : 12,
+  "type" : "AMD",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.2,
+  "sf" : 2.097,
+  "amplitude" : 1.58963928222656
+ },
+ {
+  "id" : 12,
+  "type" : "AMD",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.2,
+  "sf" : 21.499,
+  "amplitude" : 2.71773071289062
+ },
+ {
+  "id" : 12,
+  "type" : "AMD",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.2,
+  "sf" : 3.185,
+  "amplitude" : 2.77306638336182
+ },
+ {
+  "id" : 12,
+  "type" : "AMD",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.2,
+  "sf" : 4.777,
+  "amplitude" : 1.13680041503906
+ },
+ {
+  "id" : 12,
+  "type" : "AMD",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.2,
+  "sf" : 7.166,
+  "amplitude" : 0.999388946533203
+ },
+ {
+  "id" : 13,
+  "type" : "CATARACT",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.65,
+  "sf" : 0.528,
+  "amplitude" : 24.555919921875
+ },
+ {
+  "id" : 13,
+  "type" : "CATARACT",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.65,
+  "sf" : 0.877,
+  "amplitude" : 30.4143447265625
+ },
+ {
+  "id" : 13,
+  "type" : "CATARACT",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.65,
+  "sf" : 0.877,
+  "amplitude" : 30.4143447265625
+ },
+ {
+  "id" : 13,
+  "type" : "CATARACT",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.65,
+  "sf" : 1.41,
+  "amplitude" : 30.2331171875
+ },
+ {
+  "id" : 13,
+  "type" : "CATARACT",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.65,
+  "sf" : 10.749,
+  "amplitude" : 7.393375
+ },
+ {
+  "id" : 13,
+  "type" : "CATARACT",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.65,
+  "sf" : 17.199,
+  "amplitude" : 3.30432568359375
+ },
+ {
+  "id" : 13,
+  "type" : "CATARACT",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.65,
+  "sf" : 2.097,
+  "amplitude" : 24.9860174560547
+ },
+ {
+  "id" : 13,
+  "type" : "CATARACT",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.65,
+  "sf" : 21.499,
+  "amplitude" : 2.73166064453125
+ },
+ {
+  "id" : 13,
+  "type" : "CATARACT",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.65,
+  "sf" : 3.185,
+  "amplitude" : 19.9265123901367
+ },
+ {
+  "id" : 13,
+  "type" : "CATARACT",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.65,
+  "sf" : 4.777,
+  "amplitude" : 19.5263452148437
+ },
+ {
+  "id" : 13,
+  "type" : "CATARACT",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.65,
+  "sf" : 7.166,
+  "amplitude" : 10.6857714538574
+ },
+ {
+  "id" : 14,
+  "type" : "ON",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 1,
+  "sf" : 0.528,
+  "amplitude" : 7.17997680664062
+ },
+ {
+  "id" : 14,
+  "type" : "ON",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 1,
+  "sf" : 0.877,
+  "amplitude" : 4.276740234375
+ },
+ {
+  "id" : 14,
+  "type" : "ON",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 1,
+  "sf" : 1.41,
+  "amplitude" : 7.65405218505859
+ },
+ {
+  "id" : 14,
+  "type" : "ON",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 1,
+  "sf" : 10.749,
+  "amplitude" : 1.74178515625
+ },
+ {
+  "id" : 14,
+  "type" : "ON",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 1,
+  "sf" : 17.199,
+  "amplitude" : 2.89955639648437
+ },
+ {
+  "id" : 14,
+  "type" : "ON",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 1,
+  "sf" : 2.097,
+  "amplitude" : 8.83009375
+ },
+ {
+  "id" : 14,
+  "type" : "ON",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 1,
+  "sf" : 21.499,
+  "amplitude" : 2.85073876953125
+ },
+ {
+  "id" : 14,
+  "type" : "ON",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 1,
+  "sf" : 3.185,
+  "amplitude" : 10.3760463867187
+ },
+ {
+  "id" : 14,
+  "type" : "ON",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 1,
+  "sf" : 4.777,
+  "amplitude" : 5.664001953125
+ },
+ {
+  "id" : 14,
+  "type" : "ON",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 1,
+  "sf" : 7.166,
+  "amplitude" : 2.257716796875
+ },
+ {
+  "id" : 15,
+  "type" : "AMD",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.16,
+  "sf" : 0.528,
+  "amplitude" : 16.0260371094
+ },
+ {
+  "id" : 15,
+  "type" : "AMD",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.16,
+  "sf" : 0.877,
+  "amplitude" : 11.8494398193
+ },
+ {
+  "id" : 15,
+  "type" : "AMD",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.16,
+  "sf" : 1.41,
+  "amplitude" : 10.4468964844
+ },
+ {
+  "id" : 15,
+  "type" : "AMD",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.16,
+  "sf" : 10.749,
+  "amplitude" : 2.1687038574
+ },
+ {
+  "id" : 15,
+  "type" : "AMD",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.16,
+  "sf" : 17.199,
+  "amplitude" : 2.8455310059
+ },
+ {
+  "id" : 15,
+  "type" : "AMD",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.16,
+  "sf" : 2.097,
+  "amplitude" : 14.8321399536
+ },
+ {
+  "id" : 15,
+  "type" : "AMD",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.16,
+  "sf" : 21.499,
+  "amplitude" : 3.3970941486
+ },
+ {
+  "id" : 15,
+  "type" : "AMD",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.16,
+  "sf" : 3.185,
+  "amplitude" : 11.5610551758
+ },
+ {
+  "id" : 15,
+  "type" : "AMD",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.16,
+  "sf" : 4.777,
+  "amplitude" : 6.0241594238
+ },
+ {
+  "id" : 15,
+  "type" : "AMD",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.16,
+  "sf" : 7.166,
+  "amplitude" : 2.5932531738
+ },
+ {
+  "id" : 16,
+  "type" : "RP",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.2,
+  "sf" : 0.528,
+  "amplitude" : 6.0315044555664
+ },
+ {
+  "id" : 16,
+  "type" : "RP",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.2,
+  "sf" : 0.877,
+  "amplitude" : 4.3616748046875
+ },
+ {
+  "id" : 16,
+  "type" : "RP",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.2,
+  "sf" : 1.41,
+  "amplitude" : 4.14192626953125
+ },
+ {
+  "id" : 16,
+  "type" : "RP",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.2,
+  "sf" : 10.749,
+  "amplitude" : 1.675095703125
+ },
+ {
+  "id" : 16,
+  "type" : "RP",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.2,
+  "sf" : 17.199,
+  "amplitude" : 3.89773568725586
+ },
+ {
+  "id" : 16,
+  "type" : "RP",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.2,
+  "sf" : 2.097,
+  "amplitude" : 0.917594177246094
+ },
+ {
+  "id" : 16,
+  "type" : "RP",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.2,
+  "sf" : 21.499,
+  "amplitude" : 2.11304159545898
+ },
+ {
+  "id" : 16,
+  "type" : "RP",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.2,
+  "sf" : 3.185,
+  "amplitude" : 3.34441882324219
+ },
+ {
+  "id" : 16,
+  "type" : "RP",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.2,
+  "sf" : 4.777,
+  "amplitude" : 1.00769989013672
+ },
+ {
+  "id" : 16,
+  "type" : "RP",
+  "eye" : "",
+  "condition" : 0,
+  "VA" : 0.2,
+  "sf" : 7.166,
+  "amplitude" : 1.88532788085937
+ }
+]
