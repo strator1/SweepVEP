@@ -96,7 +96,7 @@
 //          text: String.format('sfmax = {0} cpd', round(sfmax, 2))
         }, {
           y: anoise,
-//          text: String.format('anoise = {0} µV', round(anoise, 2))
+//          text: String.format('anoise = {0} &mu;V', round(anoise, 2))
         }, {
           x: sfthreshold,
 //          text: String.format('sfthreshold = {0} cpd', round(sfthreshold, 2))
@@ -105,7 +105,7 @@
 /*
         options.annotations[1] = {
           y: amax,
-          text: String.format('amax = {0} µV', round(amax, 2))
+          text: String.format('amax = {0} &mu;V', round(amax, 2))
         };
 */
         functionPlot(options);
@@ -208,7 +208,7 @@
               <textarea cols="50" rows="20" id="data_textarea"></textarea>
             </td>
             <td colspan="2" valign="top">
-              <p>Paste tabular spatial frequencies (cpd) / amplitudes (µV) data into the textfield.</p>
+              <p>Paste tabular spatial frequencies (cpd) / amplitudes (&mu;V) data into the textfield.</p>
             </td>
           </tr>
           <tr>
@@ -246,10 +246,10 @@
           $$a(sf) = (a_{max} - a_{noise}) {sf} / {{sf}_{max}} {e^({{-{sf}/{{sf}_{max}} + 1}}) + a_{noise}$$
           <table id="resultsRicker" class="compact stripe">
             <tr><td>n</td><td align="right"></td><td></td></tr>
-            <tr><td>RMSE</td><td align="right"></td><td>µV</td></tr>
-            <tr><td>a<sub>max</sub></td><td align="right"></td><td>µV</td></tr>
+            <tr><td>RMSE</td><td align="right"></td><td>&mu;V</td></tr>
+            <tr><td>a<sub>max</sub></td><td align="right"></td><td>&mu;V</td></tr>
             <tr><td>sf<sub>max</sub></td><td align="right"></td><td>cpd</td></tr>
-            <tr><td>a<sub>noise</sub></td><td align="right"></td><td>µV</td></tr>
+            <tr><td>a<sub>noise</sub></td><td align="right"></td><td>&mu;V</td></tr>
             <tr><td>SNR</td><td align="right"></td><td>dB</td></tr>
             <tr><td>SNR<sub>min</sub></td><td align="right"></td><td>dB</td></tr>
             <tr><td>sf<sub>threshold</sub></td><td align="right"></td><td>cpd</td></tr>
@@ -278,7 +278,7 @@
             <tr><td>n</td><td align="right"></td><td></td></tr>
             <tr><td>coefficients<br/>[p<sub>1</sub>, p<sub>2</sub>, p<sub>3</sub>]</td><td nowrap align="right" valign="top"></td><td></td></tr>
             <tr><td>R<sup>2</sup></td><td align="right"></td><td></td></tr>
-            <tr><td>RMSE</td><td align="right"></td><td>µV</td></tr>
+            <tr><td>RMSE</td><td align="right"></td><td>&mu;V</td></tr>
             <tr><td>sf<sub>vertex</sub></td><td align="right"></td><td>cpd</td></tr>
             <tr><td>sf<sub>limiting</sub></td><td align="right"></td><td>cpd</td></tr>
           </table>
@@ -348,7 +348,7 @@
           domain: [chartMin, 40]
         },
         yAxis: {
-          label: 'amplitude (µV)',
+          label: 'amplitude (&mu;V)',
           domain: [chartMin, 60]
         },
         tip: {
@@ -370,7 +370,7 @@
           domain: [-0.5, Math.log10(60)]
         },
         yAxis: {
-          label: 'amplitude (µV)',
+          label: 'amplitude (&mu;V)',
           domain: [chartMin, 60]
         },
         tip: {
@@ -535,7 +535,7 @@
               columns: [
                   { title: "exclude" },
                   { title: "spatial frequency (cpd)" },
-                  { title: "amplitude (µV)" }
+                  { title: "amplitude (&mu;V)" }
               ],
               columnDefs: [{
                 orderable:true,
